@@ -13,7 +13,7 @@ The plots for each files are stored in the plot folder in the same directory.
 
 # Mathematical Formulas
 
-`Stress` = Force['N'] / `sample_thickness` / 10 * 10^3 
+`Stress` = Force['N'] / (`sample_area = 100 mm2`) * 10^3 
 
 returns the `stress` in `kPa`
 
