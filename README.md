@@ -27,3 +27,6 @@ returns the `stress` in `kPa`
 # Example!
 ![image](https://github.com/azzarip/extrudion/assets/116155557/aba78eb2-d1fb-4f90-992c-82c1806c85a5)
 
+# Requirements
+
+It needs Python 3.10 or greater. All other dependencies will be installed. 
