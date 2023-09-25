@@ -1,7 +1,7 @@
 # Extrudion
 Executable .bat file for analysing .TRA files 
 # Installation 
-1. Click on `Code` on the upper right corner, and `download as ZIP`.
+1. Click on `Code` on the upper right corner, and `Download ZIP`.
 2. Put the `extrudion.bat` file in the folder containing `.TRA` files.
 3. Double click to run it.
 
