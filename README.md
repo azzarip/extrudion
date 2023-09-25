@@ -1,5 +1,10 @@
 # Extrudion
 Executable .bat file for analysing .TRA files 
+# Installation 
+1. Click on `Code` on the upper right corner, and `download as ZIP`.
+2. Put the `extrudion.bat` file in the folder containing `.TRA` files.
+3. Double click to run it.
+
 # Instruction
 Run this file in the folder containing `.TRA` files.
 It will output an `analysis.csv` file containing all the results, as shown in the mathematical formula section of this page.
