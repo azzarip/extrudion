@@ -25,5 +25,5 @@ returns the `stress` in `kPa`
 
 `Yield Stress and Strain` are the points of intersection for the Young modulus line shifted by 0.02 in the Strain and the data.
 # Example!
-[Example](https://github.com/azzarip/extrudion/assets/116155557/aba78eb2-d1fb-4f90-992c-82c1806c85a5)
+![image](https://github.com/azzarip/extrudion/assets/116155557/aba78eb2-d1fb-4f90-992c-82c1806c85a5)
 
