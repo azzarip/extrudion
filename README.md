@@ -7,19 +7,22 @@ Executable .bat file for analysing .TRA files
 
 # Instruction
 Run this file in the folder containing `.TRA` files.
+
+It will ask for `surface_area` in mm2. Input the number. 
+
 It will output an `analysis.csv` file containing all the results, as shown in the mathematical formula section of this page.
 
 The plots for each files are stored in the plot folder in the same directory.
 
 # Mathematical Formulas
 
-`Stress` = Force['N'] / (`sample_area = 100 mm2`) * 10^3 
+`Stress` = Force['N'] / (`sample_area`) * 10^3 
 
 returns the `stress` in `kPa`
 
 `Strain` = ln( length['mm'] / initial length ['mm'] )
 
-`Young Modulus` = slope of the best line fit for the curve
+`Young Modulus` = slope of the best line fit with max slope for the curve
 
 `Intercept` = the intercept of the previous fit
 
@@ -30,3 +33,4 @@ returns the `stress` in `kPa`
 # Requirements
 
 It needs Python 3.10 or greater. All other dependencies will be installed. 
+If Python is needed [install from here](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html)
