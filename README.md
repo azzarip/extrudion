@@ -8,9 +8,9 @@ Executable .bat file for analysing .TRA files
 # Instruction
 Run this file in the folder containing `.TRA` files.
 
-It will ask for `surface_area` in mm2. Input the number. 
+It will ask for `surface_area` in mm2 and then for `initial_length`, in mm.
 
-It will output an `analysis.csv` file containing all the results, as shown in the mathematical formula section of this page.
+It output the `analysis.csv` file containing all the results, as shown in the mathematical formula section of this page.
 
 The plots for each files are stored in the plot folder in the same directory.
 
